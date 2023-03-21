@@ -32,3 +32,9 @@ Note thate you can provide the information you want, according to the api respon
 This file is an important configuration file used fom google chrome to define your extension info.
 It must be placed in the root of your project.
 Here some documentation about that: https://developer.chrome.com/docs/extensions/mv3/manifest/
+
+## Installation
+To install your custom extension in Google Chrome you need to enable developer mode located in the extension menù.
+Go to Chrome settings (three dot, right top), click on More Tools, then Extension and enable Developer mode.
+Now you can upload your Custom Extension, click on Load Unpacked and import you project folder.
+
